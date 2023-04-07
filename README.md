@@ -1,6 +1,8 @@
 # arbion (orbion qmk firmware test 20230407) 
 * qmk v1.1.1
 
+  使用arduino promicro
+
   ```
   make arbion:default
   ```
@@ -25,3 +27,9 @@
   * OLED顯示，只先做到可以正常操作，功能目錄未實現，未排版美化。
   
   * VIA未實現
+  
+  * 
+  
+  
+
+* 以上功能全部要實現可能rom不夠用
