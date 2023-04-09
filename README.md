@@ -1,5 +1,5 @@
 # arbion (orbion qmk firmware test 20230407) 
-* qmk v1.1.1
+* qmk v0.20.4
 
   (隨著qmk_firmware不斷改進，未來新版本有些能夠取巧的功能也許會被改掉導致編譯不通過，建議使用指定版本)
 
